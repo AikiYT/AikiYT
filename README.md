@@ -1,9 +1,9 @@
 <h2 align="center" style="color: #00BFFF;">Hola :D 👋</h2>
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6" style="font-size: 24px; color: #00BFFF; font-family: 'Courier New', monospace;">
-    Software Development Student | Professional Programmer | Backend & Frontend Developer
-  </marquee>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00BFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Development+Student;Professional+Programmer;Backend+Developer">
+  </a>
 </p>
  👋 Hola, soy Iverson Inoel Rosario De Jesus
 
