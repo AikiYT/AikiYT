@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00BFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Development+Student;Professional+Programmer;Backend+Developer">
   </a>
 </p>
-### 👋 Hola, soy Iverson Inoel Rosario De Jesus
+ 👋 Hola, soy Iverson Inoel Rosario De Jesus
 
 - 🎓 Estudiante de Desarrollo de Software en el ITLA.
 - 💻 Apasionado por el desarrollo en C#, bases de datos y APIs.
